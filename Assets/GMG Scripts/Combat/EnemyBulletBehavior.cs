@@ -20,12 +20,19 @@ public class EnemyBulletBehavior : MonoBehaviour
             target = GameObject.FindGameObjectWithTag("player");
         moveDirection = (target.transform.position - transform.position).normalized * moveSpeed;
         rb.linearVelocity = new Vector2(moveDirection.x, moveDirection.y);
-        Destroy(gameObject, 3f);
+        //Destroy(gameObject, 3f);
+    }
+
+    void Update()
+    {
+        moveDirection = (target.transform.position - transform.position).normalized * moveSpeed;
+        rb.linearVelocity = new Vector2(moveDirection.x, moveDirection.y);
     }
 
     void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.gameObject.name.Equals("Cat"))
+        
+        if (col.gameObject.name.Equals("Player"))
         {
             Debug.Log("Hit!");
             Destroy(gameObject);
