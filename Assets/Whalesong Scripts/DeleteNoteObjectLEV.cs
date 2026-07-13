@@ -5,7 +5,7 @@ using UnityEngine;
 // this code is to detect if, when note crosses button threshhold, 
 // the player is pressing the right button. if so, delete and add points
 
-public class NoteObject : MonoBehaviour
+public class DeleteNoteObjectLEV : MonoBehaviour
 {
 
     public bool canBePressed = false;
@@ -25,8 +25,7 @@ public class NoteObject : MonoBehaviour
         {
             if (canBePressed) // and the note is in the right area...
             {
-                gameObject.SetActive(false); // destroy it and give points!
-                //TODO: points?
+                gameObject.SetActive(true); // dont destroy the mean note
             }
         }
     }
