@@ -33,7 +33,7 @@ public class DeleteNoteObjectLEV : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other)
     {
         //Debug.Log("hey ive detected something!");
-        if (other.CompareTag("Activator")) // when note enters a potential shield space
+        if (other.CompareTag("Enemy")) // when note enters a potential shield space
         {
             //Debug.Log("hey ive detected an Activator!");
             canBePressed = true;
