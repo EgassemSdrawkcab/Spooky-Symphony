@@ -5939,7 +5939,7 @@ MonoBehaviour:
     CustomLookAtTarget: 0
   Lens:
     FieldOfView: 60
-    OrthographicSize: 10
+    OrthographicSize: 80
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -6243,7 +6243,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 80
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -6317,6 +6317,10 @@ PrefabInstance:
     - target: {fileID: 132242, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
       propertyPath: m_Name
       value: UserInterface
+      objectReference: {fileID: 0}
+    - target: {fileID: 11445676, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
+      propertyPath: scoreToWin
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 22414540, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
       propertyPath: m_AnchorMax.y
@@ -6549,7 +6553,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -4530452642201836258, guid: e92689983901e614598eaf70c6843573, type: 3}
       propertyPath: moveSpeed
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -3941426054098120296, guid: e92689983901e614598eaf70c6843573, type: 3}
       propertyPath: m_GravityScale
@@ -7547,7 +7551,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Move
   rigidbody2D: {fileID: 0}
   typeOfControl: 0
-  speed: 1
+  speed: 8
   movementType: 0
   orientToDirection: 1
   lookAxis: 1
