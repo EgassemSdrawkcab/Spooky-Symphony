@@ -16342,6 +16342,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UserInterface
       objectReference: {fileID: 0}
+    - target: {fileID: 11445676, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
+      propertyPath: scoreToWin
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 22414540, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
