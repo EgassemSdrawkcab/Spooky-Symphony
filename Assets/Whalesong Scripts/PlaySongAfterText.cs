@@ -36,6 +36,7 @@ public class PlaySongAfterText : MonoBehaviour
         if (StartCountDown == 0)
         {
             TheArrowsFolder.beatHasStarted = true;
+            TheMusicSource.Play();
             TheMusicSource.UnPause();
         }
 
