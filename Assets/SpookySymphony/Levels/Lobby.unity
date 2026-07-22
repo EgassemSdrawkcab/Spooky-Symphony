@@ -4433,29 +4433,8 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 132242, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 698335404}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
---- !u!1 &698335403 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 132242, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
-  m_PrefabInstance: {fileID: 698335402}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &698335404
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 698335403}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dfaecc3798570824dab3898df8303b5a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::WhenOnChangeScene
-  SceneToGo: Basement
 --- !u!1001 &808042022
 PrefabInstance:
   m_ObjectHideFlags: 0

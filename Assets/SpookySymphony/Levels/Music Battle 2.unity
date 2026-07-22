@@ -5834,7 +5834,7 @@ MonoBehaviour:
   TheMusicSource: {fileID: 1058770205}
   NumberOfStartBalloons: 12
   NumberOfEndBalloons: 3
-  levelName: Game over screen
+  levelName: Victory screen
 --- !u!4 &1805895051
 Transform:
   m_ObjectHideFlags: 0
