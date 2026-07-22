@@ -162,7 +162,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 30
+  spritePixelsToUnits: 15
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -219,7 +219,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -241,7 +241,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -263,7 +263,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -285,7 +285,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -307,7 +307,7 @@ TextureImporter:
         width: 34
         height: 104
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -324,12 +324,12 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_5
       rect:
         serializedVersion: 2
-        x: 415
-        y: 319
-        width: 66
-        height: 37
+        x: 405
+        y: 33
+        width: 57
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -351,7 +351,7 @@ TextureImporter:
         width: 66
         height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -365,50 +365,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_7
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 335
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ff063ab37330ca80800000000000000
-      internalID: -8448696328808689677
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_8
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 335
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e8f8bf9a43937660800000000000000
-      internalID: 7382406162906937572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fancy_mansion_room_door_tiles_9
       rect:
         serializedVersion: 2
@@ -417,7 +373,7 @@ TextureImporter:
         width: 78
         height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -431,50 +387,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_10
-      rect:
-        serializedVersion: 2
-        x: 121
-        y: 313
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e58c8acc13d17d70800000000000000
-      internalID: 9039238047720048096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_11
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 313
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 491337db44505fbb0800000000000000
-      internalID: -4903006826528558700
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fancy_mansion_room_door_tiles_12
       rect:
         serializedVersion: 2
@@ -483,7 +395,7 @@ TextureImporter:
         width: 8
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -505,7 +417,7 @@ TextureImporter:
         width: 34
         height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -527,7 +439,7 @@ TextureImporter:
         width: 34
         height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -549,7 +461,7 @@ TextureImporter:
         width: 34
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -566,12 +478,12 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_16
       rect:
         serializedVersion: 2
-        x: 396
-        y: 287
-        width: 8
-        height: 34
+        x: 462
+        y: 33
+        width: 67
+        height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -593,7 +505,7 @@ TextureImporter:
         width: 78
         height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -607,81 +519,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_18
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 223
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4887b2714fbc65e30800000000000000
-      internalID: 4492001927569832068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_19
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 223
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 065fb49d3cbf16df0800000000000000
-      internalID: -188592890790021792
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_20
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 223
-        width: 8
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6cc0c32668c2bb000800000000000000
-      internalID: 52684776330235078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fancy_mansion_room_door_tiles_21
       rect:
         serializedVersion: 2
-        x: 185
-        y: 159
-        width: 40
+        x: 99
+        y: 25
+        width: 27
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -698,13 +544,13 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_22
       rect:
         serializedVersion: 2
-        x: 255
-        y: 159
-        width: 40
+        x: 64
+        y: 29
+        width: 31
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -720,13 +566,13 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_23
       rect:
         serializedVersion: 2
-        x: 348
-        y: 95
-        width: 72
-        height: 130
+        x: 32
+        y: 0
+        width: 33
+        height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 8, z: 33, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -742,12 +588,12 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_24
       rect:
         serializedVersion: 2
-        x: 415
-        y: 223
-        width: 130
-        height: 66
+        x: 272
+        y: 26
+        width: 66
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -764,13 +610,13 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_25
       rect:
         serializedVersion: 2
-        x: 477
-        y: 188
-        width: 72
-        height: 37
+        x: 336
+        y: 30
+        width: 66
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -783,170 +629,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_26
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 201
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c7cbf919be67c64b0800000000000000
-      internalID: -5445847095265215364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_27
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 201
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3c195ec62314b300800000000000000
-      internalID: 266859335313333306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_28
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 185
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f63448fcc0ad9de40800000000000000
-      internalID: 5681812153460605807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_29
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 185
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0be010ab3307215e0800000000000000
-      internalID: -1940365121976987984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_30
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 185
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: abff2b8bcd423df00800000000000000
-      internalID: 1140295661065011130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_31
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 185
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b13ba2b0bc63204f0800000000000000
-      internalID: -864067932808105189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fancy_mansion_room_door_tiles_32
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 153
-        width: 34
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b18835e57bdf93590800000000000000
-      internalID: -7693839524382406629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: fancy_mansion_room_door_tiles_33
       rect:
         serializedVersion: 2
-        x: 95
-        y: 95
-        width: 98
-        height: 66
+        x: 128
+        y: 96
+        width: 32
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -962,12 +654,12 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_34
       rect:
         serializedVersion: 2
-        x: 476
-        y: 127
-        width: 72
-        height: 37
+        x: 2
+        y: 28
+        width: 31
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -989,7 +681,7 @@ TextureImporter:
         width: 34
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1006,13 +698,13 @@ TextureImporter:
       name: fancy_mansion_room_door_tiles_36
       rect:
         serializedVersion: 2
-        x: 0
-        y: 22
-        width: 161
-        height: 71
+        x: 128
+        y: 15
+        width: 34
+        height: 79
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -1030,11 +722,11 @@ TextureImporter:
         serializedVersion: 2
         x: 207
         y: 22
-        width: 322
+        width: 65
         height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
       customData: 
       outline: []
       physicsShape: []
