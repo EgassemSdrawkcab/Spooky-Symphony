@@ -2465,7 +2465,12 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 6202230594684748172, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
+      propertyPath: SceneToGo
+      value: Game over screen
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1035622593093824775, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
