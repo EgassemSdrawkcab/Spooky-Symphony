@@ -1210,15 +1210,23 @@ GameObject:
   - component: {fileID: 927335246}
   - component: {fileID: 927335261}
   - component: {fileID: 927335260}
+  - component: {fileID: 927335262}
   - component: {fileID: 927335259}
+  - component: {fileID: 927335266}
   - component: {fileID: 927335258}
+  - component: {fileID: 927335265}
   - component: {fileID: 927335257}
+  - component: {fileID: 927335269}
   - component: {fileID: 927335256}
+  - component: {fileID: 927335264}
   - component: {fileID: 927335255}
+  - component: {fileID: 927335263}
   - component: {fileID: 927335254}
   - component: {fileID: 927335253}
   - component: {fileID: 927335249}
+  - component: {fileID: 927335268}
   - component: {fileID: 927335252}
+  - component: {fileID: 927335267}
   - component: {fileID: 927335251}
   - component: {fileID: 927335250}
   m_Layer: 0
@@ -1296,15 +1304,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
-  textToDisplay: "Mortal! I\u2019ve never been happier in my life! Thank you for
-    singing with me. "
+  textToDisplay: "Mortal! I\u2019ve never been happier in my life!"
   backgroundColor: {r: 0.1882353, g: 0.23921569, b: 0.2784314, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
   targetObject: {fileID: 0}
   disappearMode: 1
   timeToDisappear: 2
   keyToPress: 13
-  followingText: {fileID: 927335252}
+  followingText: {fileID: 927335268}
 --- !u!61 &927335250
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1386,15 +1393,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
-  textToDisplay: "Hm, I guess that wasn\u2019t so bad. But you better not bother
-    me again. "
+  textToDisplay: "Hm, I guess that wasn\u2019t so bad."
   backgroundColor: {r: 1, g: 0, b: 0.5294118, a: 1}
   textColor: {r: 0, g: 0, b: 0, a: 1}
   targetObject: {fileID: 0}
   disappearMode: 1
   timeToDisappear: 2
   keyToPress: 13
-  followingText: {fileID: 0}
+  followingText: {fileID: 927335267}
 --- !u!114 &927335253
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1447,15 +1453,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
-  textToDisplay: "*Huffs* My name is Esmeralda. How do I know you\u2019ll actually
-    leave me alone? "
+  textToDisplay: '*Huffs* My name is Esmeralda.'
   backgroundColor: {r: 1, g: 0, b: 0.5294118, a: 1}
   textColor: {r: 0, g: 0, b: 0, a: 1}
   targetObject: {fileID: 927335248}
   disappearMode: 1
   timeToDisappear: 2
   keyToPress: 13
-  followingText: {fileID: 927335254}
+  followingText: {fileID: 927335263}
 --- !u!114 &927335256
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1468,15 +1473,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
-  textToDisplay: 'Halt, mortal! Sing one ballad with me, and I shall bother you no
-    more. But before you join me in my serenade, tell me your name. '
+  textToDisplay: Sing one ballad with me, and I shall bother you no more.
   backgroundColor: {r: 0.1882353, g: 0.23921569, b: 0.2784314, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
   targetObject: {fileID: 927335248}
   disappearMode: 1
   timeToDisappear: 2
   keyToPress: 13
-  followingText: {fileID: 927335255}
+  followingText: {fileID: 927335264}
 --- !u!114 &927335257
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1496,7 +1500,7 @@ MonoBehaviour:
   disappearMode: 1
   timeToDisappear: 2
   keyToPress: 13
-  followingText: {fileID: 927335256}
+  followingText: {fileID: 927335269}
 --- !u!114 &927335258
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1509,15 +1513,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
-  textToDisplay: "*Sighs* No one wants to sing in my concerts anymore, I\u2019ve
-    been so lonely for over a 100 years\u2026 "
+  textToDisplay: '*Sighs* No one wants to sing in my concerts anymore,'
   backgroundColor: {r: 0.1882353, g: 0.23921569, b: 0.2784314, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
   targetObject: {fileID: 927335248}
   disappearMode: 1
   timeToDisappear: 2
   keyToPress: 13
-  followingText: {fileID: 927335257}
+  followingText: {fileID: 927335265}
 --- !u!114 &927335259
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1530,15 +1533,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
-  textToDisplay: "*Looks annoyed* I don\u2019t have time for that, I need to vlog
-    some ghosts and get out of here! "
+  textToDisplay: "*Looks annoyed* I don\u2019t have time for that,"
   backgroundColor: {r: 1, g: 0, b: 0.5294118, a: 1}
   textColor: {r: 0, g: 0, b: 0, a: 1}
   targetObject: {fileID: 927335248}
   disappearMode: 1
   timeToDisappear: 2
   keyToPress: 13
-  followingText: {fileID: 927335258}
+  followingText: {fileID: 927335266}
 --- !u!114 &927335260
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1551,15 +1553,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
-  textToDisplay: 'I am the concert master, Herbert Von Reginald. Have you come to
-    take part in my magnificent symphony? '
+  textToDisplay: I am the concert master, Herbert Von Reginald.
   backgroundColor: {r: 0.1882353, g: 0.23921569, b: 0.2784314, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
   targetObject: {fileID: 927335248}
   disappearMode: 1
   timeToDisappear: 2
   keyToPress: 13
-  followingText: {fileID: 927335259}
+  followingText: {fileID: 927335262}
 --- !u!114 &927335261
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1580,6 +1581,166 @@ MonoBehaviour:
   timeToDisappear: 2
   keyToPress: 13
   followingText: {fileID: 927335260}
+--- !u!114 &927335262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927335245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
+  textToDisplay: ' Have you come to take part in my magnificent symphony? '
+  backgroundColor: {r: 0.1882353, g: 0.23921569, b: 0.2784314, a: 1}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
+  targetObject: {fileID: 927335248}
+  disappearMode: 1
+  timeToDisappear: 2
+  keyToPress: 13
+  followingText: {fileID: 927335259}
+--- !u!114 &927335263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927335245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
+  textToDisplay: "How do I know you\u2019ll actually leave me alone? "
+  backgroundColor: {r: 1, g: 0, b: 0.5294118, a: 1}
+  textColor: {r: 0, g: 0, b: 0, a: 1}
+  targetObject: {fileID: 927335248}
+  disappearMode: 1
+  timeToDisappear: 2
+  keyToPress: 13
+  followingText: {fileID: 927335254}
+--- !u!114 &927335264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927335245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
+  textToDisplay: 'But before you join me in my serenade, tell me your name. '
+  backgroundColor: {r: 0.1882353, g: 0.23921569, b: 0.2784314, a: 1}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
+  targetObject: {fileID: 927335248}
+  disappearMode: 1
+  timeToDisappear: 2
+  keyToPress: 13
+  followingText: {fileID: 927335255}
+--- !u!114 &927335265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927335245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
+  textToDisplay: "I\u2019ve been so lonely for over a 100 years\u2026 "
+  backgroundColor: {r: 0.1882353, g: 0.23921569, b: 0.2784314, a: 1}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
+  targetObject: {fileID: 927335248}
+  disappearMode: 1
+  timeToDisappear: 2
+  keyToPress: 13
+  followingText: {fileID: 927335257}
+--- !u!114 &927335266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927335245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
+  textToDisplay: 'I need to vlog some ghosts and get out of here! '
+  backgroundColor: {r: 1, g: 0, b: 0.5294118, a: 1}
+  textColor: {r: 0, g: 0, b: 0, a: 1}
+  targetObject: {fileID: 927335248}
+  disappearMode: 1
+  timeToDisappear: 2
+  keyToPress: 13
+  followingText: {fileID: 927335258}
+--- !u!114 &927335267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927335245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
+  textToDisplay: 'But you better not bother me again. '
+  backgroundColor: {r: 1, g: 0, b: 0.5294118, a: 1}
+  textColor: {r: 0, g: 0, b: 0, a: 1}
+  targetObject: {fileID: 0}
+  disappearMode: 1
+  timeToDisappear: 2
+  keyToPress: 13
+  followingText: {fileID: 0}
+--- !u!114 &927335268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927335245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
+  textToDisplay: 'Thank you for singing with me. '
+  backgroundColor: {r: 0.1882353, g: 0.23921569, b: 0.2784314, a: 1}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
+  targetObject: {fileID: 0}
+  disappearMode: 1
+  timeToDisappear: 2
+  keyToPress: 13
+  followingText: {fileID: 927335252}
+--- !u!114 &927335269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927335245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
+  textToDisplay: Halt, mortal!
+  backgroundColor: {r: 0.1882353, g: 0.23921569, b: 0.2784314, a: 1}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
+  targetObject: {fileID: 927335248}
+  disappearMode: 1
+  timeToDisappear: 2
+  keyToPress: 13
+  followingText: {fileID: 927335256}
 --- !u!1 &929166966
 GameObject:
   m_ObjectHideFlags: 0
@@ -1974,11 +2135,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6838195860478125432, guid: e92689983901e614598eaf70c6843573, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.68
+      value: 1.31
       objectReference: {fileID: 0}
     - target: {fileID: 6838195860478125432, guid: e92689983901e614598eaf70c6843573, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 18.86
+      value: 18.9
       objectReference: {fileID: 0}
     - target: {fileID: 6838195860478125432, guid: e92689983901e614598eaf70c6843573, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2522,11 +2683,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6838195860478125432, guid: e92689983901e614598eaf70c6843573, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.03
+      value: -1.69
       objectReference: {fileID: 0}
     - target: {fileID: 6838195860478125432, guid: e92689983901e614598eaf70c6843573, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 18.85
+      value: 18.89
       objectReference: {fileID: 0}
     - target: {fileID: 6838195860478125432, guid: e92689983901e614598eaf70c6843573, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2652,11 +2813,11 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 3d86b748f7f7a2841a1323a8492b0900, type: 3}
+  m_Resource: {fileID: 8300000, guid: be16bfd01b1e8024a88e5db9ee7cb6e1, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.45
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -3085,7 +3246,12 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 6202230594684748172, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
+      propertyPath: SceneToGo
+      value: Game over screen
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1035622593093824775, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -3121,8 +3287,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlaySongAfterText
   TheArrowsFolder: {fileID: 791449531}
   TheMusicSource: {fileID: 1669596261}
-  NumberOfStartBalloons: 2
-  NumberOfEndBalloons: 1
+  NumberOfStartBalloons: 17
+  NumberOfEndBalloons: 4
   levelName: Full EXACT name of next level goes here
 --- !u!4 &1885995468
 Transform:
