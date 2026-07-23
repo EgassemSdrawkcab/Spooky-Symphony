@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 42f02559a4a0b544b89b84d4dcb15302
+guid: 216abac52151b7c40adc983645a21130
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4853054773114021029
-    second: esmerelda rhythm sprite_0
+      213: 8391604670319666643
+    second: Esmerelda_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: esmerelda rhythm sprite_0
+      name: Esmerelda_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 7000
-        height: 7000
+        x: 2315
+        y: 1696
+        width: 2417
+        height: 4583
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a4a9f28a93895340800000000000000
-      internalID: 4853054773114021029
+      spriteID: 3d5a9edacf7f47470800000000000000
+      internalID: 8391604670319666643
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      esmerelda rhythm sprite_0: 4853054773114021029
+      Esmerelda_0: 8391604670319666643
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
