@@ -134,7 +134,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfaecc3798570824dab3898df8303b5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WhenOnChangeScene
-  SceneToGo: Scene to go to when this panel appears. Be EXACT in the naming!
+  SceneToGo: Music Battle 1
 --- !u!1 &130094
 GameObject:
   m_ObjectHideFlags: 0
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfaecc3798570824dab3898df8303b5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WhenOnChangeScene
-  SceneToGo: Scene to go to when this panel appears. Be EXACT in the naming!
+  SceneToGo: Basement
 --- !u!1 &132242
 GameObject:
   m_ObjectHideFlags: 0
