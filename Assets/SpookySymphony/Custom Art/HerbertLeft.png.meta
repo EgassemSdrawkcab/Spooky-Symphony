@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 696181d79eda4c64abfba781a44fd225
+guid: f0a2e22bfba971a44af0c537c7152def
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9004680281227764908
-    second: HerbertVonReginald 1_0
+      213: -3342061700557645429
+    second: HerbertLeft_0
   - first:
-      213: 7630146694676191823
-    second: HerbertVonReginald 1_1
+      213: 1697252616040297198
+    second: HerbertLeft_1
   - first:
-      213: -2038278517521818223
-    second: HerbertVonReginald 1_2
+      213: 6524470614837860010
+    second: HerbertLeft_2
   - first:
-      213: -6468398557796754276
-    second: HerbertVonReginald 1_3
+      213: 4626059413753523105
+    second: HerbertLeft_3
   - first:
-      213: 3284071519793013451
-    second: HerbertVonReginald 1_4
+      213: -5902759287130154329
+    second: HerbertLeft_4
   - first:
-      213: 7783606979368759078
-    second: HerbertVonReginald 1_5
+      213: -1051377249208400520
+    second: HerbertLeft_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HerbertVonReginald 1_0
+      name: HerbertLeft_0
       rect:
         serializedVersion: 2
         x: 1948
@@ -130,19 +130,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 45b54793ef2f80380800000000000000
-      internalID: -9004680281227764908
+      spriteID: b89d2d0279c9e91d0800000000000000
+      internalID: -3342061700557645429
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HerbertVonReginald 1_1
+      name: HerbertLeft_1
       rect:
         serializedVersion: 2
-        x: 2016
+        x: 2001
         y: 77
-        width: 3143
+        width: 3158
         height: 6519
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4a9b481ef9b3e960800000000000000
-      internalID: 7630146694676191823
+      spriteID: ee23f29034add8710800000000000000
+      internalID: 1697252616040297198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HerbertVonReginald 1_2
+      name: HerbertLeft_2
       rect:
         serializedVersion: 2
         x: 2611
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19d5dc1dc7496b3e0800000000000000
-      internalID: -2038278517521818223
+      spriteID: aa692e0c4739b8a50800000000000000
+      internalID: 6524470614837860010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HerbertVonReginald 1_3
+      name: HerbertLeft_3
       rect:
         serializedVersion: 2
         x: 3372
@@ -196,14 +196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c9c10e068c1ab36a0800000000000000
-      internalID: -6468398557796754276
+      spriteID: 1ab61a2e680133040800000000000000
+      internalID: 4626059413753523105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HerbertVonReginald 1_4
+      name: HerbertLeft_4
       rect:
         serializedVersion: 2
         x: 3123
@@ -218,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc26d32c5ad539d20800000000000000
-      internalID: 3284071519793013451
+      spriteID: 7aa18f7d3bf251ea0800000000000000
+      internalID: -5902759287130154329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HerbertVonReginald 1_5
+      name: HerbertLeft_5
       rect:
         serializedVersion: 2
         x: 2769
@@ -240,8 +240,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62fa684fe4de40c60800000000000000
-      internalID: 7783606979368759078
+      spriteID: 875810856f1c861f0800000000000000
+      internalID: -1051377249208400520
       vertices: []
       indices: 
       edges: []
@@ -260,12 +260,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      HerbertVonReginald 1_0: -9004680281227764908
-      HerbertVonReginald 1_1: 7630146694676191823
-      HerbertVonReginald 1_2: -2038278517521818223
-      HerbertVonReginald 1_3: -6468398557796754276
-      HerbertVonReginald 1_4: 3284071519793013451
-      HerbertVonReginald 1_5: 7783606979368759078
+      HerbertLeft_0: -3342061700557645429
+      HerbertLeft_1: 1697252616040297198
+      HerbertLeft_2: 6524470614837860010
+      HerbertLeft_3: 4626059413753523105
+      HerbertLeft_4: -5902759287130154329
+      HerbertLeft_5: -1051377249208400520
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
