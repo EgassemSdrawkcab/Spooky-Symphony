@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 6584b821f16e09c41a99e9a8144cb261
+guid: f0a2e22bfba971a44af0c537c7152def
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6381064345421164045
-    second: red ghost_0
+      213: -3342061700557645429
+    second: HerbertLeft_0
   - first:
-      213: 2409995424721948705
-    second: red ghost_1
+      213: 1697252616040297198
+    second: HerbertLeft_1
   - first:
-      213: -6885353063649218524
-    second: red ghost_2
+      213: 6524470614837860010
+    second: HerbertLeft_2
   - first:
-      213: 3603331570267823252
-    second: red ghost_3
+      213: 4626059413753523105
+    second: HerbertLeft_3
   - first:
-      213: 8385902548948289648
-    second: red ghost_4
+      213: -5902759287130154329
+    second: HerbertLeft_4
   - first:
-      213: 4538118943407299807
-    second: red ghost_5
+      213: -1051377249208400520
+    second: HerbertLeft_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -61,7 +61,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: red ghost_0
+      name: HerbertLeft_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 215
-        width: 71
-        height: 65
+        x: 1948
+        y: 819
+        width: 59
+        height: 306
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d0e2dbdb6381e8850800000000000000
-      internalID: 6381064345421164045
+      spriteID: b89d2d0279c9e91d0800000000000000
+      internalID: -3342061700557645429
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red ghost_1
+      name: HerbertLeft_1
       rect:
         serializedVersion: 2
-        x: 101
-        y: 215
-        width: 71
-        height: 65
+        x: 2001
+        y: 77
+        width: 3158
+        height: 6519
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1205ed0f116027120800000000000000
-      internalID: 2409995424721948705
+      spriteID: ee23f29034add8710800000000000000
+      internalID: 1697252616040297198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red ghost_2
+      name: HerbertLeft_2
       rect:
         serializedVersion: 2
-        x: 8
-        y: 119
-        width: 71
-        height: 65
+        x: 2611
+        y: 18
+        width: 115
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4207a086edf4270a0800000000000000
-      internalID: -6885353063649218524
+      spriteID: aa692e0c4739b8a50800000000000000
+      internalID: 6524470614837860010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red ghost_3
+      name: HerbertLeft_3
       rect:
         serializedVersion: 2
-        x: 107
-        y: 119
-        width: 74
-        height: 62
+        x: 3372
+        y: 53
+        width: 9
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +196,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 49c93cdc8fa910230800000000000000
-      internalID: 3603331570267823252
+      spriteID: 1ab61a2e680133040800000000000000
+      internalID: 4626059413753523105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red ghost_4
+      name: HerbertLeft_4
       rect:
         serializedVersion: 2
-        x: 17
-        y: 23
-        width: 71
-        height: 65
+        x: 3123
+        y: 43
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0780b1710f5b06470800000000000000
-      internalID: 8385902548948289648
+      spriteID: 7aa18f7d3bf251ea0800000000000000
+      internalID: -5902759287130154329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red ghost_5
+      name: HerbertLeft_5
       rect:
         serializedVersion: 2
-        x: 119
-        y: 23
-        width: 71
-        height: 65
+        x: 2769
+        y: 0
+        width: 127
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,8 +240,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fdc53429223aafe30800000000000000
-      internalID: 4538118943407299807
+      spriteID: 875810856f1c861f0800000000000000
+      internalID: -1051377249208400520
       vertices: []
       indices: 
       edges: []
@@ -250,7 +250,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -260,12 +260,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      red ghost_0: 6381064345421164045
-      red ghost_1: 2409995424721948705
-      red ghost_2: -6885353063649218524
-      red ghost_3: 3603331570267823252
-      red ghost_4: 8385902548948289648
-      red ghost_5: 4538118943407299807
+      HerbertLeft_0: -3342061700557645429
+      HerbertLeft_1: 1697252616040297198
+      HerbertLeft_2: 6524470614837860010
+      HerbertLeft_3: 4626059413753523105
+      HerbertLeft_4: -5902759287130154329
+      HerbertLeft_5: -1051377249208400520
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
