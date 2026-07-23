@@ -1,22 +1,25 @@
 fileFormatVersion: 2
-guid: 0c5a1b466c4b4244585a20b90c7a0326
+guid: 696181d79eda4c64abfba781a44fd225
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6567106161992244502
-    second: Bluewallpaperfinished4game-1.png_0
+      213: -9004680281227764908
+    second: HerbertVonReginald 1_0
   - first:
-      213: 4696468632165330440
-    second: Bluewallpaperfinished4game-1.png_1
+      213: 7630146694676191823
+    second: HerbertVonReginald 1_1
   - first:
-      213: -368736712986446786
-    second: Bluewallpaperfinished4game-1.png_2
+      213: -2038278517521818223
+    second: HerbertVonReginald 1_2
   - first:
-      213: 1370321232395138706
-    second: Bluewallpaperfinished4game-1.png_3
+      213: -6468398557796754276
+    second: HerbertVonReginald 1_3
   - first:
-      213: -7995263879293471578
-    second: Bluewallpaperfinished4game-1.png_4
+      213: 3284071519793013451
+    second: HerbertVonReginald 1_4
+  - first:
+      213: 7783606979368759078
+    second: HerbertVonReginald 1_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -63,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1000
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -112,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bluewallpaperfinished4game-1.png_0
+      name: HerbertVonReginald 1_0
       rect:
         serializedVersion: 2
-        x: 407
-        y: 515
-        width: 1299
-        height: 1228
+        x: 1948
+        y: 819
+        width: 59
+        height: 306
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ae26c2c5db3fcd4a0800000000000000
-      internalID: -6567106161992244502
+      spriteID: 45b54793ef2f80380800000000000000
+      internalID: -9004680281227764908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bluewallpaperfinished4game-1.png_1
+      name: HerbertVonReginald 1_1
       rect:
         serializedVersion: 2
-        x: 1736
-        y: 1470
-        width: 6
-        height: 6
+        x: 2016
+        y: 77
+        width: 3143
+        height: 6519
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,18 +152,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 80eaaf686553d2140800000000000000
-      internalID: 4696468632165330440
+      spriteID: f4a9b481ef9b3e960800000000000000
+      internalID: 7630146694676191823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bluewallpaperfinished4game-1.png_2
+      name: HerbertVonReginald 1_2
       rect:
         serializedVersion: 2
-        x: 1758
-        y: 1468
+        x: 2611
+        y: 18
+        width: 115
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d5dc1dc7496b3e0800000000000000
+      internalID: -2038278517521818223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HerbertVonReginald 1_3
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 53
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c10e068c1ab36a0800000000000000
+      internalID: -6468398557796754276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HerbertVonReginald 1_4
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 43
         width: 7
         height: 7
       alignment: 0
@@ -171,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e343cc6c9ebf1eaf0800000000000000
-      internalID: -368736712986446786
+      spriteID: bc26d32c5ad539d20800000000000000
+      internalID: 3284071519793013451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bluewallpaperfinished4game-1.png_3
+      name: HerbertVonReginald 1_5
       rect:
         serializedVersion: 2
-        x: 1740
-        y: 1445
-        width: 6
-        height: 6
+        x: 2769
+        y: 0
+        width: 127
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,30 +240,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 296761d86eb540310800000000000000
-      internalID: 1370321232395138706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bluewallpaperfinished4game-1.png_4
-      rect:
-        serializedVersion: 2
-        x: 1746
-        y: 1448
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a4733dccdd1b0190800000000000000
-      internalID: -7995263879293471578
+      spriteID: 62fa684fe4de40c60800000000000000
+      internalID: 7783606979368759078
       vertices: []
       indices: 
       edges: []
@@ -235,11 +260,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bluewallpaperfinished4game-1.png_0: -6567106161992244502
-      Bluewallpaperfinished4game-1.png_1: 4696468632165330440
-      Bluewallpaperfinished4game-1.png_2: -368736712986446786
-      Bluewallpaperfinished4game-1.png_3: 1370321232395138706
-      Bluewallpaperfinished4game-1.png_4: -7995263879293471578
+      HerbertVonReginald 1_0: -9004680281227764908
+      HerbertVonReginald 1_1: 7630146694676191823
+      HerbertVonReginald 1_2: -2038278517521818223
+      HerbertVonReginald 1_3: -6468398557796754276
+      HerbertVonReginald 1_4: 3284071519793013451
+      HerbertVonReginald 1_5: 7783606979368759078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
