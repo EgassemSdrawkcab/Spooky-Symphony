@@ -697,7 +697,7 @@ MonoBehaviour:
     CustomLookAtTarget: 0
   Lens:
     FieldOfView: 60
-    OrthographicSize: 80
+    OrthographicSize: 130
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -949,7 +949,9 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -4530452642201836258, guid: e92689983901e614598eaf70c6843573, type: 3}
       propertyPath: moveSpeed
+
       value: 10
+
       objectReference: {fileID: 0}
     - target: {fileID: -3941426054098120296, guid: e92689983901e614598eaf70c6843573, type: 3}
       propertyPath: m_GravityScale
@@ -6442,7 +6444,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Move
   rigidbody2D: {fileID: 0}
   typeOfControl: 0
-  speed: 8
+  speed: 10
   movementType: 0
   orientToDirection: 1
   lookAxis: 1
@@ -6536,7 +6538,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 80
+  orthographic size: 130
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -7287,6 +7289,14 @@ PrefabInstance:
     - target: {fileID: 224000012685850840, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
       propertyPath: m_SizeDelta.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1035622593093824775, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
+      propertyPath: SceneToGo
+      value: Victory screen
+      objectReference: {fileID: 0}
+    - target: {fileID: 6202230594684748172, guid: 0f6ae8712879c4f40bf6af3fe490badd, type: 3}
+      propertyPath: SceneToGo
+      value: Music Battle 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
