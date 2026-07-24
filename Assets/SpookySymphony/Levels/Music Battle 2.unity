@@ -5834,7 +5834,11 @@ MonoBehaviour:
   TheMusicSource: {fileID: 1058770205}
   NumberOfStartBalloons: 12
   NumberOfEndBalloons: 3
+<<<<<<< HEAD
+  levelName: Attic
+=======
   levelName: Victory screen
+>>>>>>> main
 --- !u!4 &1805895051
 Transform:
   m_ObjectHideFlags: 0
@@ -6735,7 +6739,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb970c45b40bb4652a8310660a03dfb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HealthSystemAttribute
-  health: 100
+  health: 5
 --- !u!61 &2056862717
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7191,7 +7195,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
-  textToDisplay: '*Sighs* I used to be like you once, young and brash.'
+  textToDisplay: '*Sighs* I used to be like you once, young and brash...'
   backgroundColor: {r: 0.1882353, g: 0.23921569, b: 0.2784314, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
   targetObject: {fileID: 496293194}
@@ -7391,7 +7395,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueBalloonAction
-  textToDisplay: "but I don\u2019t have time to listen to your trauma dump! "
+  textToDisplay: "but, I don\u2019t have time to listen to your trauma dump! "
   backgroundColor: {r: 1, g: 0, b: 0.5294118, a: 1}
   textColor: {r: 0, g: 0, b: 0, a: 1}
   targetObject: {fileID: 496293194}
